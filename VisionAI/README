@@ -1,1 +1,6 @@
-V0.1 2021/09/09
+V0.1 2021/10/22 Final
+
+Main Script: vinfo.py
+
+Run example: vinfo.py SRC\\calgary.mp4 0 900
+Return data: DAT\calgary.mp4.txt
