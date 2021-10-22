@@ -1,0 +1,11 @@
+Video File: calgary.mp4
+Date: 2021-10-22 18:44:24.474588
+
+Pre Trigger Data. Frame: 0
+{'Tints and shades', 'Window', 'Tile flooring', 'Glass', 'Building material', 'Electric blue', 'Flooring', 'Door', 'Fixture', 'Gas', 'NULL'}
+
+Post Trigger Data. Frame: 900
+{'Suit', 'Machine', 'Glass', 'Tile flooring', 'Electric blue', 'Event', 'Flooring', 'Fixture', 'Door', 'Display device', 'NULL'}
+
+Difference.
+{'Suit', 'Tints and shades', 'Machine', 'Window', 'Building material', 'Event', 'Display device', 'Gas'}

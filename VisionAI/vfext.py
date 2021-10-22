@@ -4,7 +4,7 @@ import sys
 import cv2
 
 # CLI Arguments
-# eg: Main.py video.mp4 0 100 1000
+# eg: vfext.py SRC//video.mp4 0 100 1000
 str(sys.argv)
 
 # Open Video
