@@ -4,3 +4,5 @@ Main Script: vinfo.py
 
 Run example: vinfo.py SRC\\calgary.mp4 0 900
 Return data: DAT\calgary.mp4.txt
+
+Key file removed. Key file expected to be placed in directory as key.json
